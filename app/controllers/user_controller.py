@@ -1,5 +1,7 @@
 from flask import Blueprint, render_template
 
+from app.models.user import User
+
 user_bp = Blueprint('user', __name__)
 
 @user_bp.route('/login')
