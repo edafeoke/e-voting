@@ -1,0 +1,29 @@
+# Python-related
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Virtual environment
+venv/
+.env
+
+# Compiled Python files
+*.pyc
+
+# Local development files
+*.sqlite
+*.db
+*.log
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Compiled files
+*.pyc
+
+# Logs
+*.log
